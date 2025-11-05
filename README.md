@@ -1,3 +1,6 @@
+
+# A Note to the people who have low intelligence.(I sincerely hope that individuals of integrity and goodwill will not feel the need to read this message.)
+
 # programming-diary
 
 A personal journey for programming. This is my story.
